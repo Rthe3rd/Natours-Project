@@ -1,0 +1,56 @@
+@keyframes moveInLeft {
+    /* start of animation */
+    0%{
+        opacity: 0;
+        /* start translation from 100px to the left from where it is "now" */
+        transform: translateX(-10rem);
+    }
+
+    80%{
+        transform: translateX(1rem)
+    }
+
+    /* end of animation */
+    100%{
+        opacity: 1;
+        /* translate to where it is "now" */
+        transform: translate(0);
+    }
+}
+
+
+@keyframes moveInRight {
+    /* start of animation */
+    0%{
+        opacity: 0;
+        /* start translation from 100px to the left from where it is "now" */
+        transform: translateX(10rem);
+    }
+
+    80%{
+        transform: translateX(-10rem);
+    }
+
+    /* end of animation */
+    100%{
+        opacity: 1;
+        /* translate to where it is "now" */
+        transform: translate(0);
+    }
+}
+
+@keyframes moveInBottom {
+    /* start of animation */
+    0%{
+        opacity: 0;
+        /* start translation from 100px to the left from where it is "now" */
+        transform: translateY(10rem);
+    }
+
+    /* end of animation */
+    100%{
+        opacity: 1;
+        /* translate to where it is "now" */
+        transform: translate(0);
+    }
+}
