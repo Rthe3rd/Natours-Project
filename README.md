@@ -4,14 +4,18 @@
  In the pursuit of learning new technologies and improving my skills, I completed a 20 hour advanced CSS/Sass course.  The main project was the following "Natours" project which demonstrates some of the many features learned.  Please see the following clips that demonstrate some of the features learned in this project (clips were kept short as to not exceed GitHub's file size limit).
  
 ## Hidden components to create popups 
-https://user-images.githubusercontent.com/114183011/235760401-4a33b6cb-ee6f-4c3c-8e9d-30f8e9eed383.mov
+
+https://user-images.githubusercontent.com/114183011/235764099-361b7fe6-7387-4427-a532-2e7b26fa8da3.mov
 
 ## Transitions and transforms to add depth
-https://user-images.githubusercontent.com/114183011/235760665-afbe7e57-beb5-43dd-8134-75d77586c03d.mov
+
+https://user-images.githubusercontent.com/114183011/235764077-7498abd7-abbb-4620-84df-32bf52242b96.mov
 
 ## "Double sided" cards and more use of hidden components
-https://user-images.githubusercontent.com/114183011/235761288-25ef5220-db35-4f87-b37b-becbb1f0395a.mov
+
+https://user-images.githubusercontent.com/114183011/235764049-60ad28d8-218e-477b-8926-99a25b764b0c.mov
 
 ## Subtle background video and gradients to "flavor" background images and videos
-https://user-images.githubusercontent.com/114183011/235761879-b47f9467-8c86-472b-ac0d-9ed46cad4fcf.mov
+
+https://user-images.githubusercontent.com/114183011/235763988-fec9d191-65da-4cfc-ada2-fe70881a66dc.mov
 
