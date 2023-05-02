@@ -1,7 +1,7 @@
 # Natours Project
  Advanced CSS/SCSS
  
- In the pursuit of learning new technologies and improving my skills, I completed a 20 hour advanced CSS/Sass course.  The main project was the following "Natours" project which demonstrates some of the many features learned.  Please see the following clips that demonstrate some of the features learned in this project.
+ In the pursuit of learning new technologies and improving my skills, I completed a 20 hour advanced CSS/Sass course.  The main project was the following "Natours" project which demonstrates some of the many features learned.  Please see the following clips that demonstrate some of the features learned in this project (clips were kept short as to not exceed GitHub's file size limit).
  
 ## Hidden components to create popups 
 https://user-images.githubusercontent.com/114183011/235760401-4a33b6cb-ee6f-4c3c-8e9d-30f8e9eed383.mov
